@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Karukuri Rithvik</h1>
 <h3 align="center">Web Dev by Day, ML Explorer by Night | Always Learning 🚀</h3>
-<img align="right" alt="Coding" width="400px" src="[https://in.images.search.yahoo.com/search/images;_ylt=Awrx.pauFylnBdEg6p69HAx.;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDMjExNDcyMzAwNQRfcgMyBGZyA21jYWZlZQRmcjIDcDpzLHY6aSxtOnNiLXRvcARncHJpZANXUDgwR1VBM1NIdUxINzB2eko4M0xBBG5fcnNsdAMwBG5fc3VnZwMwBG9yaWdpbgNpbi5pbWFnZXMuc2VhcmNoLnlhaG9vLmNvbQRwb3MDMARwcXN0cgMEcHFzdHJsAzAEcXN0cmwDMjkEcXVlcnkDYW5pbWF0ZWQlMjBib3klMjBjb2RpbmclMjBnaWYlMjBpbWFnZQR0X3N0bXADMTczMDc0NjM1NQ--?p=animated+boy+coding+gif+image&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt&type=E211IN714G0#id=15&iurl=https%3A%2F%2Fwww.sarvika.com%2Fwp-content%2Fuploads%2F2021%2F03%2FBackend-Developer-Python-GIF-Dribble.gif&action=click](https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif)"/>
+<div style="text-align: center;">
+    <img alt="Coding" width="600px" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif"/>
+</div>
+
+
 
 - 🔭 I’m currently working on [Eduprime](https://studentattendancemanagement.onrender.com/)
 
